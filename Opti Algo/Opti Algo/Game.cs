@@ -1,5 +1,7 @@
 ﻿using System.Text; // A REGARDER PAR LUCAS ET PAS OIUBLIER DE SUPPR :
                    // check d'abord les rouges et mettre tout le reste en blanc et après check les jaunes en remplacant ceux qui on besoin
+                   // et mettre une liste d'int pour prevoir la coulmeur( 0 blanc 1 jaune 2 rouge)
+
 
 namespace Opti_Algo;
 

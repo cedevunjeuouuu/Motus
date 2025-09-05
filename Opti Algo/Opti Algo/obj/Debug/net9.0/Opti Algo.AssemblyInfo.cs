@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opti Algo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13deb4c401fbd239d66461121747ec460922a9c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opti Algo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opti Algo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

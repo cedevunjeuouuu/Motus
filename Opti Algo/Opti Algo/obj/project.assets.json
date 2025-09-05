@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l.kominiarz\\RiderProjects\\Opti Algo\\Opti Algo\\Opti Algo.csproj",
+      "projectUniqueName": "C:\\Users\\l.kominiarz\\Work\\Motus\\Opti Algo\\Opti Algo\\Opti Algo.csproj",
       "projectName": "Opti Algo",
-      "projectPath": "C:\\Users\\l.kominiarz\\RiderProjects\\Opti Algo\\Opti Algo\\Opti Algo.csproj",
+      "projectPath": "C:\\Users\\l.kominiarz\\Work\\Motus\\Opti Algo\\Opti Algo\\Opti Algo.csproj",
       "packagesPath": "C:\\Users\\l.kominiarz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l.kominiarz\\RiderProjects\\Opti Algo\\Opti Algo\\obj\\",
+      "outputPath": "C:\\Users\\l.kominiarz\\Work\\Motus\\Opti Algo\\Opti Algo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\l.kominiarz\\AppData\\Roaming\\NuGet\\NuGet.Config"

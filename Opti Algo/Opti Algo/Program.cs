@@ -4,6 +4,7 @@
     {
         public static void Main(string[] args)
         {
+            /*
             Game gameRef = new Game();
             
             List<string> wordList = new List<string>() // liste totale des mots
@@ -27,6 +28,19 @@
             {
                 userWord = Console.ReadLine();
             }
+            */
+            BinaryTree bt = new BinaryTree();
+            bt.Add("coucou");
+            bt.Add("blabla");
+            bt.Add("bonjour");
+            bt.Add("jpp");
+            bt.Add("test");
+            
+            Console.WriteLine(bt.Search("caca"));
+            Console.WriteLine(bt.Search("test"));
+            Console.WriteLine(bt.Search("bonjour"));
+            Console.WriteLine(bt.Search("blabla"));
+            
         }
     }
 }
